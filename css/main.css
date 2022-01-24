@@ -1,8 +1,10 @@
 /* ------------------- General ------------------- */
 
 body {
+	background-image: url("https://klike.net/uploads/posts/2019-06/1561182942_2.jpg");
+      
 	font-family: 'Roboto', sans-serif;
-	color: #161616;
+	color: #d67070;
 	margin: 0;
 
 	padding-bottom: 140px;
@@ -25,7 +27,7 @@ img {
 .header-inner {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background-color: #e3f0f7;
+	background-color: #fd0707;
 }
 
 .header-inner-row {
@@ -163,8 +165,7 @@ h6 {
 	text-align: center;
 }
 
-.heading-desc {
-}
+
 
 .calc-section {
 	padding: 40px 50px;
@@ -332,8 +333,7 @@ h6 {
 	align-items: center;
 }
 
-.rooms-label {
-}
+
 .rooms-radio-real {
 	opacity: 0;
 	appearance: none;
